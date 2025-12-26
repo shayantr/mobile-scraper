@@ -1,4 +1,3 @@
-update all products in mobile.ir
 # Mobile Listing Auto-Updater (Python)
 
 A Python-based **automation tool** designed to manage and update mobile phone listings on a web platform through browser interaction.
